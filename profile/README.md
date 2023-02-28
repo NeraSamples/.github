@@ -1,12 +1,9 @@
-## Hi there 👋
+## Neradoc's Sample Code
 
-<!--
+These repositories are sample code for Circuitpython.
+Documentation and guide pages are [in the organisation wiki](https://github.com/NeraSamples/.github/wiki/The-Wiki-For-The-Samples).
 
-**Here are some ideas to get you started:**
+Unless specified otherwise, all code is Open Source under MIT License.
+Some code is under Unlicense, and some external code has its own compatible Open Source license.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+by [Neradoc](https://neradoc.me)
